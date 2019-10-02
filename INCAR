@@ -1,0 +1,5 @@
+PREC   = high
+ENCUT  = 300
+EDIFF  = 1E-4
+EDIFFG = -1E-3
+NSW    = 0
